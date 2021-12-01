@@ -1,7 +1,7 @@
 {
   "name": "heroku-docker-SpringBoot",
   "description": "描述 heroku部署SpringBoot",
-  "repository": "https://github.com/rjoonas/heroku-docker-nginx-example",
+  "repository": "https://github.com/wy2919/heroku-springboot-docker",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg",
   "keywords": ["java", "docker", "SpringBoot"],
   "stack": "container"
